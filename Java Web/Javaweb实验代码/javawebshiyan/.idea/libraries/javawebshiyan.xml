@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javawebshiyan">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://E:/Tomcat/apache-tomcat-9.0.27/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpringTest/JavasqlTest1/lib/mysql-connector-java-8.0.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
